@@ -382,7 +382,7 @@ h2 {
   position: relative;
   top: -5px;
   display: block;
-  margin-top: 0px;
+  margin-top: 15px;
   margin-right: auto;
   margin-left: auto;
   border-style: solid;
@@ -451,6 +451,8 @@ h2 {
 }
 
 .sign-up {
+  margin-top: 15px;
+  padding-bottom: 5px;
   border-radius: 20px;
   text-align: center;
 }
@@ -533,6 +535,9 @@ h2 {
     text-align: center;
     text-transform: uppercase;
   }
+  .mobile-heading.sign-up {
+    color: #fff;
+  }
   .value-prop-mobile {
     margin-top: 20px;
     margin-bottom: 0px;
@@ -603,6 +608,9 @@ h2 {
     text-decoration: none;
     text-transform: uppercase;
   }
+  .mobile-heading.sign-up {
+    color: #fff;
+  }
   .unordered-list {
     margin-top: 4px;
     color: #656464;
@@ -628,3 +636,4 @@ h2 {
     border-style: none;
   }
 }
+
